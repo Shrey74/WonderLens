@@ -1,0 +1,59 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+bin/
+obj/
+[Bb]uild/
+[Bb]uilds/
+*.exe
+*.dll
+*.pdb
+
+# Unity (if applicable)
+Library/
+Temp/
+Logs/
+MemoryCaptures/
+*.pidb
+*.booproj
+*.unityproj
+*.apk
+*.unitypackage
+*.csproj
+*.sln
+
+# QCAR and Vuforia related cache or generated files (if temporary)
+QCAR/
+
+# System files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# IDEs and editors
+.idea/
+*.code-workspace
+*.vscode/
+
+# Logs
+*.log
+
+# npm
+node_modules/
+
+# Others
+*.swp
+*.bak
+*.tmp
+*.old
+
+# Large archives
+*.tgz
+Packages/com.ptc.vuforia.engine-10.22.5.tgz
+

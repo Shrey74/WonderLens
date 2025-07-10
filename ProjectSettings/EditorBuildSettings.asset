@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/Zero.unity
+    guid: 59c9204f69ad173469e35903dc575d5e
+  - enabled: 1
+    path: Assets/Scenes/FirstPage.unity
+    guid: af39ea704d07ac74b9ee9da3919d198f
+  - enabled: 1
+    path: Assets/Scenes/EarthScene.unity
+    guid: 6b8e237af98bc9d46b5d74d55dace791
+  - enabled: 1
+    path: Assets/Scenes/TajMahalScene.unity
+    guid: 7aaaff60e62ade64f9cb1b3d4134c1f9
+  - enabled: 1
+    path: Assets/Scenes/ChichenScene.unity
+    guid: c5601c480e8a60b45943b774664aad94
+  - enabled: 1
+    path: Assets/Scenes/ChichenView.unity
+    guid: d5d040ac26e935c499821e894b104ace
+  - enabled: 1
+    path: Assets/Scenes/TajView.unity
+    guid: 7a7aba0d3f284ae4b84a67c009e3310c
+  - enabled: 1
+    path: Assets/Scenes/PetraView.unity
+    guid: 603c45664432e124bb54aade23a2ba47
+  - enabled: 1
+    path: Assets/Scenes/PacchuView.unity
+    guid: 66504349753542b449c55c18ff45b0c7
+  - enabled: 1
+    path: Assets/Scenes/GreatView.unity
+    guid: 2b82f66d61b25ca4a9b9c5e89aaaeb9f
+  - enabled: 1
+    path: Assets/Scenes/ColoView.unity
+    guid: edc8be29ea898ff4bab92c982b659f24
+  - enabled: 1
+    path: Assets/Scenes/ChristView.unity
+    guid: 624b55266bdb34343a606f08a12d6587
+  - enabled: 1
+    path: Assets/Scenes/ColoScene.unity
+    guid: c1de1546d74137d4591cdc97b2b2b264
+  - enabled: 1
+    path: Assets/Scenes/ChristScene.unity
+    guid: a4e030674271fa34d989124a49f3a167
+  - enabled: 1
+    path: Assets/Scenes/Doubts.unity
+    guid: 3e3d9ae9d61b6374d95cedcb22093dcc
+  - enabled: 1
+    path: Assets/Scenes/GreatScene.unity
+    guid: fc42294e2012ee94baaf69ed0d1a85d5
+  - enabled: 1
+    path: Assets/Scenes/PacchuScene.unity
+    guid: 1e4b5610ba1d23f43939dc979edfa253
+  - enabled: 1
+    path: Assets/Scenes/PetraScene.unity
+    guid: f2982bc80caf2774cbdae0550aeb11be
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 914b7cc6b6f07144ea17c4e166dcfaa8, type: 2}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 4a12f7a887d22934980fb07cbd7ddf77, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 2f3ddfbe40b1792449be38b4f281fe20, type: 2}
