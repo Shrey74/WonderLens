@@ -1,14 +1,16 @@
-# Wonders AR Project
+# WonderLens: AR Experience of the Seven Wonders
 
-This is an Augmented Reality project built with Unity.  
-It showcases the Seven Wonders of the World using 3D models and AR capabilities.
+## Introduction
+WonderLens bridges the gap between education and exploration by using Augmented Reality (AR) to bring the Seven Wonders of the World to life. It aims to make cultural and historical learning immersive and accessible, especially for those unable to visit these sites due to financial, physical, or time constraints.
 
-## Features
-- Built with Unity and Vuforia
-- Educational AR experience
-- 3D models with interactive scenes
+## Implementation
 
-## How to run
-1. Open the project in Unity.
-2. Make sure Vuforia is installed and configured.
-3. Play in the editor or build to Android/iOS.
+- **Conceptualization**: Defined the goals, target audience, and user experience.
+- **Marker Design**: Used a high-resolution 2D Earth image as a custom AR marker.
+- **AR Development**: Built with Unity3D and Vuforia SDK; C# used for scripting.
+- **Content**: Integrated detailed 3D models from platforms like SketchFab and 3DWarehouse, with audio for educational narration.
+- **User Interface**: Developed an interactive UI for selecting wonders and viewing information.
+
+## Result
+WonderLens demonstrates the power of AR in education, offering users an engaging way to learn about the Seven Wonders. It emphasizes the potential to transform traditional learning methods through immersive technology.
+
